@@ -9,3 +9,14 @@ C:\VS Projects\Softuni\c#-web\ASP.NET-Core-Project-Car-Renting\ASP.NET-Core-Proj
 C:\VS Projects\Softuni\c#-web\ASP.NET-Core-Project-Car-Renting\ASP.NET-Core-Project-Car-Renting-System\EmployeesAndProjects\EmployeesAndProjects\obj\Debug\EmployeesAndProjects.csproj.CoreCompileInputs.cache
 C:\VS Projects\Softuni\c#-web\ASP.NET-Core-Project-Car-Renting\ASP.NET-Core-Project-Car-Renting-System\EmployeesAndProjects\EmployeesAndProjects\obj\Debug\EmployeesAndProjects.exe
 C:\VS Projects\Softuni\c#-web\ASP.NET-Core-Project-Car-Renting\ASP.NET-Core-Project-Car-Renting-System\EmployeesAndProjects\EmployeesAndProjects\obj\Debug\EmployeesAndProjects.pdb
+C:\VS Projects\Interview\Kaloyan-Tsvetkov-employees\EmployeesAndProjects\bin\Debug\EmployeesAndProjects.exe.config
+C:\VS Projects\Interview\Kaloyan-Tsvetkov-employees\EmployeesAndProjects\bin\Debug\EmployeesAndProjects.exe
+C:\VS Projects\Interview\Kaloyan-Tsvetkov-employees\EmployeesAndProjects\bin\Debug\EmployeesAndProjects.pdb
+C:\VS Projects\Interview\Kaloyan-Tsvetkov-employees\EmployeesAndProjects\obj\Debug\EmployeesAndProjects.csproj.AssemblyReference.cache
+C:\VS Projects\Interview\Kaloyan-Tsvetkov-employees\EmployeesAndProjects\obj\Debug\EmployeesAndProjects.csproj.SuggestedBindingRedirects.cache
+C:\VS Projects\Interview\Kaloyan-Tsvetkov-employees\EmployeesAndProjects\obj\Debug\EmployeesAndProjects.Form1.resources
+C:\VS Projects\Interview\Kaloyan-Tsvetkov-employees\EmployeesAndProjects\obj\Debug\EmployeesAndProjects.Properties.Resources.resources
+C:\VS Projects\Interview\Kaloyan-Tsvetkov-employees\EmployeesAndProjects\obj\Debug\EmployeesAndProjects.csproj.GenerateResource.cache
+C:\VS Projects\Interview\Kaloyan-Tsvetkov-employees\EmployeesAndProjects\obj\Debug\EmployeesAndProjects.csproj.CoreCompileInputs.cache
+C:\VS Projects\Interview\Kaloyan-Tsvetkov-employees\EmployeesAndProjects\obj\Debug\EmployeesAndProjects.exe
+C:\VS Projects\Interview\Kaloyan-Tsvetkov-employees\EmployeesAndProjects\obj\Debug\EmployeesAndProjects.pdb

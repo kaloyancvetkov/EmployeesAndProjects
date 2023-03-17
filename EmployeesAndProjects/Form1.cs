@@ -6,16 +6,15 @@
     using System.IO;
     using System.Linq;
     using System.Windows.Forms;
-    using System.Xml.Linq;
 
     public partial class Form1 : Form
     {
         DataTable dt = new DataTable();
         DataTable dt2 = new DataTable();
         List<string> employees = new List<string>();
-
         Dictionary<string, string[]> pairs = new Dictionary<string, string[]>();
         Dictionary<string, int> daysTogether = new Dictionary<string, int>();
+        string[] headerLabels = new string[] { "Employee ID #1", "Employee ID #2", "Project ID", "Days worked" };
 
         public Form1()
         {
@@ -29,9 +28,15 @@
             filePath.Text = openFileDialog.FileName;
             BindDataCSV(filePath.Text);
 
-            string[] headerLabels = new string[] { "Employee ID #1", "Employee ID #2", "Project ID", "Days worked" };
+            if (employees.Count > 0 )
+            {
+                var kvp = GetPairs();
+                BestPairs(kvp);
+            }
+        }
 
-            var kvp = GetPairs();
+        private void BestPairs(string[] kvp)
+        {
             foreach (var headerWord in headerLabels)
             {
                 dt2.Columns.Add(new DataColumn(headerWord));
@@ -145,17 +150,6 @@
             {
                 EmployeesAndProjects.DataSource = dt;
             }
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            if (dt.Columns.Count > 0 && dt.Rows.Count > 0)
-            {
-                List<string> pairs = new List<string>();
-                List<int> daysTogether = new List<int>();
-            }
-
-            
         }
     }
 }
